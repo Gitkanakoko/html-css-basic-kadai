@@ -21,6 +21,7 @@ body {
 
 h1{
   font-size: 2rem;
+  font-family: "Josefin Sans";
   border-bottom: solid 3px rgb(115, 115, 114);
   text-shadow: 1px 1px 2px gray
 }
@@ -33,6 +34,6 @@ h1{
   color: rgb(255, 192, 203) ;
 }
 
-#basic {
+#basic p {
   font-weight:bold;
 }
